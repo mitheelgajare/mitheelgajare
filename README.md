@@ -19,8 +19,8 @@
 3. MongoDB
 
 🔭 I’m currently working on:
-1. snippets: A billion dollar idea (hopefully). Hosted on Github
-2. cmc: Just a side project. Coded to help me in my exams.
+1. snippets: A billion dollar idea (hopefully) 🤑💲. Hosted on Github
+2. cmc: Just a side project. Coded to help me in my exams. 🏫
 
 
 
