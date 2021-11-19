@@ -22,6 +22,9 @@
 1. snippets: A billion dollar idea (hopefully) 🤑💲. Hosted on Github
 2. cmc: Just a side project. Coded to help me in my exams. 🏫
 
+⚡Fun fact:
+I am completely self-taught
+
 
 
 
