@@ -11,7 +11,7 @@
 6. ExpressJs, Flask (Back-end frameworks)
 7. Solidity (Blockchain stuff)
 8. Firebase (services)
-9. PostgreSQL (DB)
+9. PostgreSQL (DB), Postgres with Prisma 2
 
 🌱 I’m currently learning:
 1. React Native
