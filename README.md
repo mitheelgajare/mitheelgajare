@@ -12,6 +12,7 @@
 7. Solidity (Blockchain stuff)
 8. Firebase (services)
 9. PostgreSQL (DB), Postgres with Prisma 2
+10. Netlify, Heroku (hosting services)
 
 🌱 I’m currently learning:
 1. React Native
