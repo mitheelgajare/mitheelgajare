@@ -4,7 +4,7 @@
 
 🤹‍♂️ My current skills are:
 1. HTML + CSS + JavaScript + Typescript (Front-end languages)
-2. ReactJS + NextJS; Sass (Front-end frameworks)
+2. ReactJS + NextJS; Sass; TailwindCSS; React Query (Front-end frameworks)
 3. NodeJs (Back-end JS)
 4. Python, Go (Back-end stuff)
 5. Git and Github in detail
@@ -13,6 +13,7 @@
 8. Firebase (services)
 9. PostgreSQL (DB), Postgres with Prisma 2
 10. Netlify, Heroku (hosting services)
+11. UI/UX Design with Figma
 
 🌱 I’m currently learning:
 1. React Native
